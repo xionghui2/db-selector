@@ -1,0 +1,5 @@
+{
+  "name": "DB Selector AI",
+  "description": "An intelligent, interactive database selection assistant powered by Gemini. It analyzes business scenarios, technical stacks, and cost constraints to recommend the optimal database solution.",
+  "requestFramePermissions": []
+}
